@@ -15,4 +15,12 @@ remove branches remotely
  If you want to revert the changes later
  --> git stash pop
 
+ # To list all tags
+  git tag
+
+# To delete remote tag
+  git push origin --delete v1.7
+# To delete local tags
+  git tag -d v1.7
+
 
