@@ -24,6 +24,6 @@ remove branches remotely
   git tag -d v1.7
 
 # image
-![photo][images/image.jpg]
+![photo](images/image.jpg)
 
 
