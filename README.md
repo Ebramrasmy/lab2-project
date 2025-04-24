@@ -23,4 +23,7 @@ remove branches remotely
 # To delete local tags
   git tag -d v1.7
 
+# image
+![photo][images/image.jpg]
+
 
